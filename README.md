@@ -1,2 +1,6 @@
 # 343-ReverseFileC
-This repository includes files for the c project where we reverse a file in c.
+AJ Natzic
+CIS 343
+Section 02
+
+This is my submission for the first project in C where we reverse a file successfully.
